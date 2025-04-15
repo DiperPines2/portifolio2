@@ -1,5 +1,5 @@
 import SideBar from './Containers/Sidebar';
-import Sobre from './Containers/Sidebar/Sobre';
+import Sobre from './Containers/Sobre';
 import EstiloGlobal, { Container } from './styles';
 import Projetos from './Containers/Projetos';
 
